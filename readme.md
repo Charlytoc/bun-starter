@@ -24,7 +24,7 @@ code .
 ## Press F1 or open the command palette
 Skip this step if necessary, if you don't see the button of the next step, then do this one first.
 
-## Press **Reopen in container**
+## Press `Reopen in container`
 It's possible that you have been prompted to open the repo in a dev container, just press the button.
 
 ## Run your code
@@ -34,7 +34,7 @@ bun index.tsx
 ```
 
 
-
+Note: If you are a pro, you can just open a **new codespace** directly in GitHub and go to the last step once the image is built.
 
 <!-- Styles for the documentation -->
 <style>
@@ -44,6 +44,8 @@ h1 {
 p {
     color: gray;
 }
-
+b,strong {
+    background-color: yellow;
+}
 </style>
 

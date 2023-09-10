@@ -1,0 +1,1 @@
+- Preview any markdown file in Vscode with Ctrl+V command.
