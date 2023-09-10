@@ -1,4 +1,4 @@
-![charlytoc_In_this_square-framed_image_a_golden-brown_bun_sits_a_800cfbfc-249b-434b-b8bd-f4cd15d1fb2e](https://github.com/Charlytoc/bun-starter/assets/107764250/c284be48-6b12-45d3-8ac7-ec74199c5e12)
+![charlytoc_In_this_square-framed_image_a_golden-brown_bun_sits_a_800cfbfc-249b-434b-b8bd-f4cd15d1fb2e](./background.png)
 
 # This project lets you build instantly with bun
 

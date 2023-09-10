@@ -1,3 +1,5 @@
+![charlytoc_In_this_square-framed_image_a_golden-brown_bun_sits_a_800cfbfc-249b-434b-b8bd-f4cd15d1fb2e](./background.png)
+
 ## Este proyecto te permite construir instantáneamente con bun
 - Bun es como una navaja suiza para las aplicaciones de JavaScript y TypeScript. Imagínalo como una única herramienta que puede hacer varias cosas. Está diseñado para reemplazar a Node.js, que es una herramienta popular utilizada para ejecutar JavaScript fuera de un navegador web. La principal ventaja de Bun es que es más rápido y utiliza menos memoria, lo que significa que tus aplicaciones pueden iniciar y ejecutarse más rápidamente.
 - Por ejemplo, si estás horneando un pastel (tu aplicación), Bun es como tu asistente de cocina. Te ayuda a mezclar los ingredientes (ejecutar tus scripts), precalentar el horno (configurar tu entorno), e incluso hornear el pastel (ejecutar tu aplicación). También puede ayudarte a probar el pastel para ver si está hecho (ejecutar pruebas), y limpiar después (gestionar tus paquetes).
