@@ -1,6 +1,11 @@
 ![charlytoc_In_this_square-framed_image_a_golden-brown_bun_sits_a_800cfbfc-249b-434b-b8bd-f4cd15d1fb2e](https://github.com/Charlytoc/bun-starter/assets/107764250/c284be48-6b12-45d3-8ac7-ec74199c5e12)
 
-# This project lets you build instantly with bun if you have Docker and Devcontainer extension installed.
+# This project lets you build instantly with bun
+
+- Bun is like a Swiss Army knife for JavaScript and TypeScript applications. Imagine it as a single tool that can do multiple things. It's designed to replace Node.js, which is a popular tool used to run JavaScript outside of a web browser. The main advantage of Bun is that it's faster and uses less memory, which means your applications can start and run more quickly.
+- For example, if you're baking a cake (your application), Bun is like your kitchen assistant. It helps you mix the ingredients (run your scripts), preheat the oven (set up your environment), and even bake the cake (execute your application). It can also help you test the cake for doneness (run tests), and clean up afterwards (manage your packages).
+
+Refer to the Bun documentation for more information:[Bun docs](https://bun.sh/docs)
 The steps to use this project are quite simple.
 
 ## Install Docker and Devcontainers in your machine.
