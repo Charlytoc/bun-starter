@@ -5,6 +5,8 @@
 - Por ejemplo, si estás horneando un pastel (tu aplicación), Bun es como tu asistente de cocina. Te ayuda a mezclar los ingredientes (ejecutar tus scripts), precalentar el horno (configurar tu entorno), e incluso hornear el pastel (ejecutar tu aplicación). También puede ayudarte a probar el pastel para ver si está hecho (ejecutar pruebas), y limpiar después (gestionar tus paquetes).
 
 Ve a la documentación de Bun para más información:[Bun docs](https://bun.sh/docs)
+
+Escucha las instrucciones: [Youtube](https://youtu.be/vjp2LqwDqLE?si=unSWvXd-ti6L_ZsS)
 Los pasos para usar este proyecto son bastante simples.
 
 
